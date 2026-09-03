@@ -8,8 +8,3 @@
 
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"><img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 
-### Statistics
-![Wakelight23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wakelight23&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wakelight23)](https://github.com/anuraghazra/github-readme-stats)
-
